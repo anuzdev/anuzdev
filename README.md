@@ -1,4 +1,6 @@
 ## Hi there 👋
+I am a High School Student.
+I am trying to learn to code.
 
 <!--
 **anuzdev/anuzdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
