@@ -1,6 +1,6 @@
 <h2 align="center">Hello World!!</h2>
 
-###
+### 
 
 <p align="left">Hello World!! My name is Anuj Khatri and I'm a student from Nepal.<br><br>I'm a high school senior passionate about technology, coding, and personal growth. My goal is to create impactful projects, contribute to open source, and share my journey as I prepare for top universities.</p>
 
