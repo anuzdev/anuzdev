@@ -45,6 +45,8 @@
 
 ###
 
+<img align="right" height="150" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif"  />
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=anuzdev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
