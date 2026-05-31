@@ -1,4 +1,4 @@
-<p align="center">Hello World!!</p>
+<h2 align="center">Hello World!!</h2>
 
 ###
 
@@ -40,11 +40,18 @@
   <a href="https://www.instagram.com/khtry_anuz/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
+  <img src="https://img.shields.io/static/v1?message=website&logo=website&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="website logo" href="https://anujkhatri.com.np"  />
 </div>
 
 ###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=anuzdev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
 <br clear="both">
+
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anuzdev/anuzdev/pacman-output/pacman-contribution-graph-dark.svg">
